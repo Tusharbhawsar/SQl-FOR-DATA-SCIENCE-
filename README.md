@@ -1,2 +1,3 @@
 # SQl-FOR-DATA-SCIENCE-
-learning  of sql in Data Science with mysql DBMS
+learned basic funtions,Aggregate Functions
+leared window functions such as Rank,Dense Rank,Over,partition By,Ntile,Lag,Lead,Last_value,First_value......
